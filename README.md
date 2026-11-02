@@ -169,4 +169,6 @@ Through this project, I gained practical experience with:
 
 ---
 
-# 👤 gvasylie
+## 👤 Author
+
+**gvasylie**
