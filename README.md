@@ -170,7 +170,3 @@ Through this project, I gained practical experience with:
 ---
 
 ## 👤 gvasylie
-
----
-
-*This project was developed as part of the 42 School Common Core curriculum.*
