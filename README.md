@@ -169,7 +169,7 @@ Through this project, I gained practical experience with:
 
 ---
 
-## 👤 Author
+## 👤 gvasylie
 
 **Your Name**  
 42 Student
