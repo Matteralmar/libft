@@ -171,9 +171,6 @@ Through this project, I gained practical experience with:
 
 ## 👤 gvasylie
 
-**Your Name**  
-42 Student
-
 ---
 
 *This project was developed as part of the 42 School Common Core curriculum.*
